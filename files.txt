@@ -1,0 +1,20 @@
+total 24
+-rw-r--r--@  1 thomasclark  staff   13 Apr 29 09:50 README.md
+drwxr-xr-x@  2 thomasclark  staff   64 Apr 29 14:14 bonus
+drwxr-xr-x@  2 thomasclark  staff   64 Apr 29 14:14 bonus-section
+drwxr-xr-x@  2 thomasclark  staff   64 Apr 29 14:14 bouns-slides
+-rw-r--r--@  1 thomasclark  staff    0 Apr 29 17:43 coversheet.doc
+drwxr-xr-x@  7 thomasclark  staff  224 Apr 29 14:18 day-1
+drwxr-xr-x@  9 thomasclark  staff  288 Apr 29 14:41 day-2
+drwxr-xr-x@ 15 thomasclark  staff  480 Apr 29 14:41 day-3
+drwxr-xr-x@ 11 thomasclark  staff  352 Apr 29 14:41 day-4
+drwxr-xr-x@  7 thomasclark  staff  224 Apr 29 15:38 day-5
+drwxr-xr-x@  5 thomasclark  staff  160 Apr 29 15:58 dir2
+drwxr-xr-x@  6 thomasclark  staff  192 Apr 29 16:01 dir3
+-rw-r--r--@  1 thomasclark  staff    0 Apr 29 15:42 file1
+-rw-r--r--@  1 thomasclark  staff    0 Apr 29 15:42 file2
+-rw-r--r--@  1 thomasclark  staff    0 Apr 29 19:43 files.txt
+drwxr-xr-x@  4 thomasclark  staff  128 Apr 29 15:43 firstdir
+-rw-r--r--@  1 thomasclark  staff   74 Apr 29 17:40 more-secrets
+-rw-r--r--@  1 thomasclark  staff  602 Apr 29 17:48 tps.tgz
+drwxr-xr-x@  6 thomasclark  staff  192 Apr 29 17:58 tpsreports
